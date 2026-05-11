@@ -1,6 +1,6 @@
+```
 © 2026 Nathan Vailikit. All rights reserved.
 
-```
       []
       []
 [][][][] ███    ██  █████  ██   ██ ███████ 
@@ -22,7 +22,7 @@
  ██████  ██   ████  [][][][] ██ ██   ████ ███████ 
                           []                  
                           [][][][][][][] 🍎
-```
+
 
 SnakeBattle Online is a multiplayer, networked snake game that supports up to 4 players. Slither around
 to eat apples and gain power-ups to try to take down your friends. This game was created as a CS final
@@ -53,3 +53,4 @@ IN ORDER TO IMPLEMENT ON THE FCPS NETWORK (OR ANY RESTRICTED NETWORK):
 
 You MUST run the program through the JAR file, do not use a compiler to run any classes
 or else it will not work properly.
+```
