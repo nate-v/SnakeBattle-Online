@@ -1,4 +1,6 @@
 © 2026 Nathan Vailikit. All rights reserved.
+
+```
       []
       []
 [][][][] ███    ██  █████  ██   ██ ███████ 
@@ -20,6 +22,7 @@
  ██████  ██   ████  [][][][] ██ ██   ████ ███████ 
                           []                  
                           [][][][][][][] 🍎
+```
 
 SnakeBattle Online is a multiplayer, networked snake game that supports up to 4 players. Slither around
 to eat apples and gain power-ups to try to take down your friends. This game was created as a CS final
