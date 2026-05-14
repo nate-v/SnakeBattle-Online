@@ -1,3 +1,6 @@
+Java Development Kit version 26 is required to run SnakeBattle Online.
+https://www.oracle.com/java/technologies/downloads/#jdk26-windows
+
 ```
 © 2026 Nathan Vailikit. All rights reserved.
 
