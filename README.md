@@ -45,7 +45,7 @@ IN ORDER TO IMPLEMENT ON THE FCPS NETWORK (OR ANY RESTRICTED NETWORK):
         	bundled JDK is located in C:\Program Files(x86)\jGrasp\bundled\bin
 
         Allow java.exe and javaw.exe through the firewall for both private 
-        and public networks.
+        and public networks they should appear as java, and Java(TM) SE Platform Binary.
 
     2. If it still does not work, create a new inbound rule by going to control panel ->
         system and security - > windows defender firewall -> advanced settings -> 
